@@ -32,4 +32,4 @@ I am an engineering student at **Yarmouk University** and a member of the **42 I
 ---
 *Always eager to learn new paradigms and push the boundaries of system efficiency and cybersecurity innovation.*
 ### 📊 GitHub Activity
-![Doha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doha-25&show_icons=true&theme=radical)
+[https://github-readme-stats.vercel.app/api?username=Doha-25&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Doha-25&show_icons=true&theme=radical)
