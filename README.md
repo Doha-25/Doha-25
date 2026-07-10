@@ -18,10 +18,7 @@ I am an engineering student at **Yarmouk University** and a member of the **42 I
 *   **Networking & Infrastructure:**
     *   Solid foundation in **Network Engineering**, including complex IP addressing, subnetting, and the OSI model.
     *   System administration and secure configuration of Linux-based environments.
-
-*   **Full-Stack & Web Development:**
-    *   Proficient in building modern interfaces and scalable web applications using **React**, **Next.js**, and **Tailwind CSS**.
-
+ 
 ---
 
 ### 🧠 Core Competencies
@@ -29,7 +26,3 @@ I am an engineering student at **Yarmouk University** and a member of the **42 I
 *   **Systems Thinking:** Strong analytical approach to debugging and pipeline architecture.
 *   **Precision:** Committed to writing maintainable, standards-compliant, and high-performance code.
 
----
-*Always eager to learn new paradigms and push the boundaries of system efficiency and cybersecurity innovation.*
-### 📊 GitHub Activity
-[https://github-readme-stats.vercel.app/api?username=Doha-25&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Doha-25&show_icons=true&theme=radical)
